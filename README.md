@@ -1,6 +1,6 @@
 # Programming Foundations - Module 2
 
-## Lesson Task 1 Questions
+## Lesson Task 1 Answers
 
 ### Question 1
 
